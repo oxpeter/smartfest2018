@@ -1,1 +1,5 @@
-matplotlib\nnumpy\nsklearn\npandas\nipywidgets
+matplotlib
+numpy
+sklearn
+pandas
+ipywidgets
